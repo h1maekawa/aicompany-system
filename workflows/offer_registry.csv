@@ -1,0 +1,6 @@
+offer_id,offer_name,category,payout,cookie_days,approval_difficulty,target_persona,target_keyword_stage,landing_page_type,main_benefit,allowed_channels,status,notes
+OFF001,テックトラック（AI人材紹介）,career,50000,30,medium,第二新股・مهندسを目指す人,BOFU,LP-direct,"AI企業に 취업·転職実績多数",site/note,active,高単価案件。 сравнение статьяとの組合せて有效
+OFF002,コードキャンプ（プログラミングスクール）,school,30000,30,low,料理を覚えたい人,MOFU,LP-direct,オンラインで本格的スキルを习得,site/note,active,学费比较表を作成し、誘導效果を高める
+OFF003,E資格対策讲座（AI资格）,education,25000,30,medium,AIエンジニア志願者,BOFU,LP-direct, 취득率达到97%・転職成功率85%,site/note,active,资格攻略と组合せて有效
+OFF004,アイデビジョンナビ（キャリア支援）,career,15000,30,medium,転職活動の始め方を知りたい人,MOFU,form-lead,非公開求人が多く面接邀请率高,site/note,active,TOFU → MOFU导線の途中に配置
+OFF005,StudySearch（スクールの一括比较高）,school,10000,30,low, inúmer 千円からのスキルを习いたい人,TOFU,comparison,複数校的成本比較が一目でわかる,site,active,比较系キーワードで流入获得

@@ -1,0 +1,6 @@
+approval_id,content_id,item_type,checkpoints,status,approver,comment
+APR001,CNT001,content_review,夸大表現なし/A8リンク先確認/文字数5000字以上,approved,human,初稿から大きな修正なく承認
+APR002,CNT002,content_review,note销售色なし/体験の真偽/メール登録導線,approved,human,実演系で信頼度も高く承認
+APR003,CNT003,monetize_check,CTA配置3回以内/内部リンク5本以上/A8リンク先,pending,human,
+APR004,CNT004,content_review,比较表の公平性/具体的数据/CTA自然性,pending,human,
+APR005,CNT005,x_post_review,フックの有效性/营业感なし/リンク先確認,pending,human,

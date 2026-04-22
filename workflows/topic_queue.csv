@@ -1,0 +1,8 @@
+topic_id,topic,persona,stage,primary_keyword,secondary_keywords,related_offer_id,estimated_value,competition_score,priority,status
+TOP001,SPI対策AI活用法,就活生・第二新股,TOFU,SPI対策 AI 活用,ChatGPT SPI 勉強法 偏差値,OFF001,¥50000,medium,high,candidate
+TOP002,AI人材紹介サービス比较,転職活动中のمهندس,MOFU,AI人材紹介 おすすめ,AIエンジニア 転職 サービスを利用,OFF001,¥50000,low,high,candidate
+TOP003,テックトラック使った人の評判,SPI対策民・転職希望者,BOFU,テックトラック 評判,テックトラック 利用者的声 口コミ,OFF001,¥50000,medium,medium,candidate
+TOP004,プログラミングスクール费用比较,雰囲きたい人,MOFU,プログラミングスクール 费用比較,最安 スクール 料金 比较,OFF002,¥30000,medium,high,candidate
+TOP005,コードキャンプ料金内幕,SPI民・コラー志望,BOFU,コードキャンプ 料金,代码营地 费用 キャンペーン,OFF002,¥30000,medium,medium,candidate
+TOP006,E資格 获取への最短ルート,مهندس志願者,TOFU,E資格 最短,E資格 独学 讲座 推荐,OFF003,¥25000,medium,high,candidate
+TOP007,アイデビジョンumbi料金比较,転職活动始めたばかり,MOFU,アイデビジョンumbi 料金,キャリア支援 服务 费用 比较,OFF004,¥15000,low,medium,candidate

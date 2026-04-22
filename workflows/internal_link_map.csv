@@ -1,0 +1,10 @@
+from_content,to_content,link_type,anchor_text
+CNT001,CNT003,TOFU→MOFU,"AI人材紹介サービスのおすすめを見る"
+CNT001,CNT005,TOFU→BOFU,"E資格讲座详细信息"
+CNT002,CNT001,note→site,"SPI対策AI活用法をさらに詳しく"
+CNT003,CNT005,MOFU→BOFU,"E資格 获取に向けた讲座"
+CNT003,CNT001,MOFU→TOFU,"SPI対策AI活用法（基礎）"
+CNT004,CNT003,比較→詳細,"AI人材紹介おすすめを見る"
+CNT004,CNT002,比較→note,"【SPI実演】当事人的声を見る"
+CNT005,CNT003,BOFU→比較,"AI人材紹介おすすめ比较"
+CNT005,CNT001,BOFU→TOFU,"SPI対策の基礎から始める"
