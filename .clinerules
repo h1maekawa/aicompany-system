@@ -1,0 +1,39 @@
+# Cline 永続ルール - aicompany-system
+
+## note記事について
+
+今後すべてのnote記事は以下に保存してください：
+
+**保存パス:** `/Users/maekawahiroyuki/Desktop/aicompany-system/content/note/`
+
+**ファイル名ルール:**
+```
+note_連番_タイトル.md
+```
+
+例:
+- note_01_first_article.md
+- note_02_ai_career_comparison.md
+
+**保存時のルール:**
+- 保存したら必ず「保存パス」を出力すること
+- 例: `✅ 保存しました: content/note/note_03_新しいテーマ.md`
+
+## フォルダ構成
+
+```
+aicompany-system/
+├── content/
+│   ├── note/     ← note記事を保存
+│   └── blog/     ← ブログ記事を保存
+├── workflows/    ← ワークフロー定義
+├── agents/       ← AIエージェント設定
+└── templates/    ← テンプレートファイル
+```
+
+## 他の保存先
+
+- SEOブログ記事: `content/blog/`
+- テンプレート: `templates/`
+- ワークフロー: `workflows/`
+- エージェント設定: `agents/`

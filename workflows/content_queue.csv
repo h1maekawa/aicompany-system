@@ -1,7 +1,8 @@
 content_id,topic_id,channel,format,title,status,owner,deadline,approval_required,publish_url
 CNT001,TOP001,site,seo,SPI対策におけるAI活用完全ガイド,published,content_ai,2026-04-15,true,https://example.com/spi-ai-guide
 CNT002,TOP001,note,note,【実演】AI使ったSPI模擬テストで偏差値65達成した全過程,approved,human,2026-04-15,true,https://note.com/mae_chan/n/note001
-CNT003,TOP002,site,seo,AI人材紹介おすすめ5選！比較で見つけた最强サービス,draft,content_ai,2026-04-25,true,
-CNT004,TOP004,site,seo,プログラミングスクール费用徹底比較！最安 класс，教えます,pending,content_ai,2026-04-28,true,
-CNT005,TOP006,note,note,E資格，获取に向けた私の学习方法,draft,content_ai,2026-04-30,true,
-CNT006,TOP002,note,note,AIエンジニア転職成功導く！おすすめ人材紹介会社比較,draft,content_ai,2026-04-22,true,
+CNT003,TOP002,site,seo,AI人材紹介おすすめ5選！比較で見つけた最強サービス,draft,content_ai,2026-04-25,true,
+CNT004,TOP004,site,seo,プログラミングスクール費用徹底比較！最安クラス教えます,pending,content_ai,2026-04-28,true,
+CNT005,TOP006,note,note,E資格取得に向けた私の学習方法,draft,content_ai,2026-04-30,true,
+CNT006,TOP002,note,note,AIエンジニア転職を成功に導く！おすすめ人材紹介会社比較,draft,content_ai,2026-04-22,true,
+CNT007,TOP003,site,seo,テックトラック 評判は？使った人の口コミと実効性を徹底調査,published,content_ai,2026-04-26,true,
